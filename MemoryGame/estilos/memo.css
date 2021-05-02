@@ -1,0 +1,20 @@
+.grid{
+	display: inline-flex;
+	flex-wrap: wrap;
+	height: 300px;
+	width: 400px;
+	margin-left: 25em;
+}
+
+.contador{
+	display: inline;
+	margin-left: 10em;
+}
+
+.separador{
+	margin-top: 10em;
+}
+
+.puntuacion{
+	margin-top: 2em;
+}
